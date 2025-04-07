@@ -50,7 +50,7 @@ Content-Type: application/json
 X-Authorization: {{authToken}}
 
 {
-	"title": "Debo de recordar no olvidar este recordatorio",
+	"content": "Debo de recordar no olvidar este recordatorio",
 	"important": true
 }
 
